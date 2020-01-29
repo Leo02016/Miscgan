@@ -6,6 +6,7 @@
 1. cd MRCGAN_network/amg-master
 2. matlab -nodisplay -nosplash -nodesktop -r mexall
 3. conda env create -f environment.yml
+4. conda activate miscgan
 
 ### Command
 1. Training:
