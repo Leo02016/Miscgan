@@ -1,6 +1,7 @@
 ### Requirement:
 * Python, Matlab
 * Python package: tensorflow=1.1
+* Other version of tensorflow might work, but it might disable the gpu.
 
 ### Installation:
 1. cd MRCGAN_network/amg-master
