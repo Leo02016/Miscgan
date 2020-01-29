@@ -1,0 +1,5 @@
+AMG change log
+
+v1.1
+- greedy selection of coarse node is now implemented as c++ code (mex)
+- adding mexall.m for compiling greedy selection code
