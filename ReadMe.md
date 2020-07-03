@@ -1,3 +1,5 @@
+### Code for the paper: Misc-GAN: A Multi-scale Generative Model for Graphs
+
 ### Requirement:
 * Python, Matlab
 * Python package: tensorflow=1.1
@@ -41,7 +43,16 @@ The final results will be displayed in the terminal and the graphs are saved at 
 The performance increases as we set the parameter 'starting_layer' to be 1 or 2. However, when we set the parameter 'starting_layer' to be 3 or 4, the runtime reduces rapidly. There is a trade-off between performance and the runtime.
 
 
-
+### Reference:
+@article{zhou2019misc,
+  title={Misc-GAN: A Multi-scale Generative Model for Graphs},
+  author={Zhou, Dawei and Zheng, Lecheng and Xu, Jiejun and He, Jingrui},
+  journal={Frontiers in Big Data},
+  volume={2},
+  pages={3},
+  year={2019},
+  publisher={Frontiers}
+}
 
 
 
