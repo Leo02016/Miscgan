@@ -44,14 +44,14 @@ The performance increases as we set the parameter 'starting_layer' to be 1 or 2.
 
 
 ### Reference:
-@article{zhou2019misc,
+@article{zhou2019misc, <br/>
   title={Misc-GAN: A Multi-scale Generative Model for Graphs}, <br/>
   author={Zhou, Dawei and Zheng, Lecheng and Xu, Jiejun and He, Jingrui}, <br/>
-  journal={Frontiers in Big Data},
-  volume={2},
-  pages={3},
-  year={2019},
-  publisher={Frontiers}
+  journal={Frontiers in Big Data}, <br/>
+  volume={2}, <br/>
+  pages={3}, <br/>
+  year={2019}, <br/>
+  publisher={Frontiers} <br/>
 }
 
 
